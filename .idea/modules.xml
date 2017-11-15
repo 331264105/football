@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Football-common/Football-common.iml" filepath="$PROJECT_DIR$/Football-common/Football-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-manager/Football-manager.iml" filepath="$PROJECT_DIR$/Football-manager/Football-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-manager/Football-manager-dao/Football-manager-dao.iml" filepath="$PROJECT_DIR$/Football-manager/Football-manager-dao/Football-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-manager/Football-manager-domain/Football-manager-domain.iml" filepath="$PROJECT_DIR$/Football-manager/Football-manager-domain/Football-manager-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-manager/Football-manager-service/Football-manager-service.iml" filepath="$PROJECT_DIR$/Football-manager/Football-manager-service/Football-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-manager/Football-manager-serviceImpl/Football-manager-serviceImpl.iml" filepath="$PROJECT_DIR$/Football-manager/Football-manager-serviceImpl/Football-manager-serviceImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-manager/Football-manager-web/Football-manager-web.iml" filepath="$PROJECT_DIR$/Football-manager/Football-manager-web/Football-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Football-parent/Football-parent.iml" filepath="$PROJECT_DIR$/Football-parent/Football-parent.iml" />
+    </modules>
+  </component>
+</project>
